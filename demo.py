@@ -1,5 +1,5 @@
 # Ask student details
-name = input("Hi learner, please enter your name: ").strip().title()
+name = input("Hey, Please Enter your Name: ").strip().title()
 print(f"Hi, {name.title()}!")
 
 # removing white spaces from str and capitalize name
